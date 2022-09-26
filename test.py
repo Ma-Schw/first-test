@@ -26,7 +26,7 @@ ysize_t0 = band_t0.YSize
 arr_t0 = band_t0.ReadAsArray()
 tiff_t0 = None
 
-print(geo_t0)
+print(geo_t0, "haha")
 
 #import sys
 #sys.path.append('C:\\ProgramData\\Anaconda3\\lib\\site-packages\\GDAL-3.4.3.dist-info')
