@@ -3,23 +3,4 @@
 
 
 
-print("hahahahahhahahha")
-
-
-print("afain")
-
-print("hahahahahhahahha")
-
-
-print("afain")
-
-
-print("hahahahahhahahha")
-
-
-print("afain")
-
-print("hahahahahhahahha")
-
-
-print("afain")
+print("nochmal bitte")
